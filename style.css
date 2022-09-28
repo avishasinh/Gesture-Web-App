@@ -1,0 +1,12 @@
+#webcam , #snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+body{
+    background-color: lightcyan;
+}
+.title{
+    font-size: xx-large;
+}
